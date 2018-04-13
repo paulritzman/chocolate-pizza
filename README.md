@@ -7,7 +7,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## Authors
 
 * Paul Ritzman - [paulritzman](https://github.com/paulritzman)
-* Christopher Hemenes
+
+* Christopher Hemenes - [chemenes](https://github.com/chemenes)
 
 ## Acknowledgements
 

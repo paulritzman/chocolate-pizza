@@ -1,3 +1,57 @@
+body {
+  width: 900px;
+  margin: 35px auto;
+}
+header {
+  border-bottom: 15px solid black;
+  height: 75px;
+  width: 100%
+}
+header img {
+  display: block;
+  float: left;
+  padding-right: 10px;
+}
+header ul li img {
+  float: right;
+  padding-right: 2px;
+}
+header ul:first-child {
+  margin-right: 0px;
+}
+h2 {
+  font-family: cursive;
+  font-size: 36px;
+}
+h5{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12px;
+}
+h1 {
+  font-size: 40px;
+  padding-top: 50px;
+}
+h4 {
+  padding-top: 3px;
+  font-size: 14px;
+}
+#printer-icon {
+  float: right;
+}
+figcaption {
+  font-size: 12px;
+  padding-bottom: 20px;
+}
+p {
+  font-size: 19px;
+  margin-top: 30px;
+  text-indent: 30px;
+}
+article img {
+  display: block;
+  float: left;
+  padding-right: 10px;
+}
 .container {
     position: relative; 
     max-width: 800px; /* Maximum width */
