@@ -1,5 +1,15 @@
 .container {
-  position: relative;
-    text-align: center;
-    color: black;
+    position: relative; 
+    max-width: 800px; /* Maximum width */
+    margin: 0 auto; /* Center it */
+}
+
+.container .content {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: transparent; /* Black background with 0.5 opacity */
+    color: black; /* Grey text */
+    width: 100%; /* Full width */
+    padding: 60px; /* Some padding */
+    
 }
