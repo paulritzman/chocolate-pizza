@@ -11,16 +11,24 @@ header {
 }
 header img {
   display: block;
-  float: left;;
+  float: left;
+  padding-right: 10px;
 }
 header ul li img {
   float: right;
-  margin-right: 2px;
+  padding-right: 2px;
 }
 header ul:first-child {
   margin-right: 0px;
 }
-
+h2 {
+  font-family: cursive;
+  font-size: 36px;
+}
+h5{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12px;
+}
 main{
   background-color: red;
 }
