@@ -32,7 +32,21 @@ h5{
 main{
   background-color: red;
 }
-
+h1 {
+  font-size: 40px;
+  padding-top: 50px;
+}
+h4 {
+  padding-top: 3px;
+  font-size: 14px;
+}
+#printer-icon {
+  float: right;
+}
+figcaption {
+  font-size: 12px;
+  padding-bottom: 20px;
+}
 
 .container {
   position: relative;
