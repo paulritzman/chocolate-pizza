@@ -42,10 +42,13 @@ figcaption {
   font-size: 12px;
   padding-bottom: 20px;
 }
-p {
+.main-text {
   font-size: 19px;
   margin-top: 30px;
   text-indent: 30px;
+}
+.last-paragraph {
+  margin-bottom: 30px;
 }
 article img {
   display: block;
@@ -57,7 +60,6 @@ article img {
     max-width: 800px; /* Maximum width */
     margin: 0 auto; /* Center it */
 }
-
 .container .content {
     position: absolute; /* Position the background text */
     bottom: 0; /* At the bottom. Use top:0 to append it to the top */
@@ -65,8 +67,10 @@ article img {
     color: black; /* Grey text */
     width: 100%; /* Full width */
     padding: 60px; /* Some padding */
-    
 }
  form p{
  font-family: 'Do Hyeon', sans-serif;
+ }
+ button {
+   float: right;
  }
