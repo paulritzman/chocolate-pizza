@@ -1,3 +1,13 @@
+header {
+
+}
+main{
+  background-color: red;
+
+  margin: 0 auto;
+  width: 960px;
+}
+
 .container {
   position: relative;
     text-align: center;
