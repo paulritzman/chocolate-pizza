@@ -1,12 +1,23 @@
+body {
+  width: 960px;
+  margin: 35px auto;
+}
 header {
+  background-color: lightblue;
 
+  border-bottom: 15px solid black;
+  height: 75px;
+  width: 100%
+}
+header img {
+  display: block;
+  float: left;
+  margin-left: 30px;
 }
 main{
   background-color: red;
-
-  margin: 0 auto;
-  width: 960px;
 }
+
 
 .container {
   position: relative;
